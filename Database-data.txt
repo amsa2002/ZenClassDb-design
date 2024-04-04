@@ -1,0 +1,144 @@
+1.users:-
+
+([
+    {
+        "user_name":"Amsa",
+        "date":ISODate("2023-10-16"),
+        "attendance":"absent",
+        "task_submission":"failed"
+    },
+    {
+        "user_name":"Aruna",
+        "date":ISODate("2023-10-17"),
+        "attendance":"present",
+        "task_submission":"passed"
+    },
+    {
+        "user_name":"Anu",
+        "date":ISODate("2023-10-20"),
+        "attendance":"present",
+        "task_submission":"passed"
+    },
+    {
+        "user_name":"Suba",
+        "date":ISODate("2023-11-15"),
+        "attendance":"present",
+        "task_submission":"passed"
+    },
+    {
+        "user_name":"Deepa",
+        "date":ISODate("2023-11-19"),
+        "attendance":"absent",
+        "task_submission":"failed"
+    }
+])
+
+2.Mentors:-
+
+([
+    {
+        "mentor_name":"Ruban",
+        "mentees_count":35
+    },
+    {
+        "mentor_name":"Nagarajan",
+        "mentees_count":19
+    },
+    {
+        "mentor_name":"Anand Rajamanikam",
+        "mentees_count":14
+    },
+    {
+        "mentor_name":"Swathy",
+        "mentees_count":20
+    },
+    {
+        "mentor_name":"Balaji",
+        "mentees_count":12
+    }
+])
+
+3.Company_drives:-
+
+([
+    {
+        "company_name":"hcl",
+        "date":ISODate("2023-11-25"),
+        "students_appeared":"Amsa,Anu,Deepa,antony"
+    },
+    {
+        "company_name":"zoho",
+        "date":ISODate("2023-11-03"),
+        "students_appeared":"deepa, suba, rani"
+    },
+    {
+        "company_name":"ibm",
+        "date":ISODate("2023-12-09"),
+        "students_appeared":"vidhya, aarthi, deepa"
+    },
+    {
+        "company_name":"wipro",
+        "date":ISODate("2023-12-17"),
+        "students_appeared":"amsa, deepa, suba, uma"
+    },
+    {
+        "company_name":"L&t tech",
+        "date":ISODate("2020-09-25"),
+        "students_appeared":"aruna, keetha, suba"
+    }
+])
+
+4.Codekata:-
+
+([
+    {
+        "user_name":"Aruna",
+        "problems_solved":100
+    },
+    {
+        "user_name":"Amsa",
+        "problems_solved":150
+    },
+    {
+        "user_name":"Deepa",
+        "problems_solved":90
+    },
+    {
+        "user_name":"suba",
+        "problems_solved":170
+    },
+    {
+        "user_name":"anu",
+        "problems_solved":33
+    }
+])
+
+5.Topics:-
+
+([
+    {
+        "topic":"javascript_Day1",
+        "month":"october",
+        "task":"functions"
+    },
+    {
+        "topic":"javascript_Day2",
+        "month":"october",
+        "task":"async functions"
+    },
+    {
+        "topic":"Html, css",
+        "month":"November",
+        "task":"Github design"
+    },
+    {
+        "topic":"React",
+        "month":"october",
+        "task":"Shopping cart usecontext hook"
+    },
+    {
+        "topic":"Node js",
+        "month":"December",
+        "task":"Blog App"
+    }
+])
